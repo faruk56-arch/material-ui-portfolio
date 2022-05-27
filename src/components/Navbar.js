@@ -22,6 +22,7 @@ import ContactMail from "@material-ui/icons/ContactMail";
 import { makeStyles } from "@material-ui/core/styles";
 import avatar from "../IMG_2017.jpg";
 
+
 import Footer from "../components/Footer";
 
 const useStyles = makeStyles((theme) => ({
